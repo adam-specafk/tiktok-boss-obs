@@ -1,6 +1,6 @@
 config.example.json
 {
   "tiktok": {
-    "username": "YOUR_TIKTOK_USERNAME"
+    "username": ".unkown.evn"
   }
 }
