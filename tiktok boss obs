@@ -1,0 +1,17 @@
+package.json
+{
+  "name": "tiktok-boss-obs",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Interactive TikTok Live Boss Fight overlay for OBS",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "NODE_ENV=development node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "ws": "^8.18.0",
+    "tiktok-live-connector": "^2.0.7-beta1"
+  }
+}
